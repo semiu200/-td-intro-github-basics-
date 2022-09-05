@@ -1,0 +1,2 @@
+git is a distributed,open source version control system that enables you to store code or track revision of history.
+version control is a class  of system responsible for managing changes to computer programs and documents.
